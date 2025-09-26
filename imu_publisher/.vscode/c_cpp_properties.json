@@ -1,0 +1,26 @@
+{
+  "configurations": [
+    {
+      "browse": {
+        "databaseFilename": "${default}",
+        "limitSymbolsToIncludedHeaders": false
+      },
+      "includePath": [
+        "/home/leeshin/astra_ws/install/orbbec_camera/include/**",
+        "/home/leeshin/astra_ws/install/orbbec_camera_msgs/include/**",
+        "/home/leeshin/ds4_ws/install/ds4_driver_msgs/include/**",
+        "/home/leeshin/camera_ws/install/usb_cam/include/**",
+        "/home/leeshin/realsense_ws/install/realsense2_camera/include/**",
+        "/home/leeshin/realsense_ws/install/realsense2_camera_msgs/include/**",
+        "/opt/ros/humble/include/**",
+        "/usr/include/**"
+      ],
+      "name": "ROS",
+      "intelliSenseMode": "gcc-x64",
+      "compilerPath": "/usr/bin/gcc",
+      "cStandard": "gnu11",
+      "cppStandard": "c++14"
+    }
+  ],
+  "version": 4
+}

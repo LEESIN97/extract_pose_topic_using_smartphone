@@ -1,0 +1,3 @@
+[console_scripts]
+pose_to_odom_path = pdr_tools.pose_to_odom_path:main
+

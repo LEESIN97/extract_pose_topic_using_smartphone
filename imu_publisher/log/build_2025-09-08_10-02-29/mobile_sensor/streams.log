@@ -1,0 +1,57 @@
+[0.019s] Invoking command in '/home/leeshin/imu_publisher/build/mobile_sensor': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/leeshin/hb_workspace/install/urdf_tutorial:/opt/ros/humble /usr/bin/cmake /home/leeshin/imu_publisher/src/mobile_sensor -DCMAKE_INSTALL_PREFIX=/home/leeshin/imu_publisher/install/mobile_sensor
+[0.106s] -- The C compiler identification is GNU 11.4.0
+[0.174s] -- The CXX compiler identification is GNU 11.4.0
+[0.183s] -- Detecting C compiler ABI info
+[0.243s] -- Detecting C compiler ABI info - done
+[0.248s] -- Check for working C compiler: /usr/bin/cc - skipped
+[0.248s] -- Detecting C compile features
+[0.249s] -- Detecting C compile features - done
+[0.252s] -- Detecting CXX compiler ABI info
+[0.319s] -- Detecting CXX compiler ABI info - done
+[0.324s] -- Check for working CXX compiler: /usr/bin/c++ - skipped
+[0.324s] -- Detecting CXX compile features
+[0.325s] -- Detecting CXX compile features - done
+[0.329s] -- Found ament_cmake: 1.3.12 (/opt/ros/humble/share/ament_cmake/cmake)
+[0.459s] -- Found Python3: /usr/bin/python3 (found version "3.10.12") found components: Interpreter 
+[0.558s] -- Found ament_lint_auto: 0.12.14 (/opt/ros/humble/share/ament_lint_auto/cmake)
+[0.634s] -- Added test 'flake8' to check Python code syntax and style conventions
+[0.635s] -- Added test 'lint_cmake' to check CMake code style
+[0.636s] -- Added test 'pep257' to check Python code against some of the docstring style conventions in PEP 257
+[0.640s] -- Added test 'xmllint' to check XML markup files
+[0.642s] -- Configuring done
+[0.644s] -- Generating done
+[0.646s] -- Build files have been written to: /home/leeshin/imu_publisher/build/mobile_sensor
+[0.649s] Invoked command in '/home/leeshin/imu_publisher/build/mobile_sensor' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/leeshin/hb_workspace/install/urdf_tutorial:/opt/ros/humble /usr/bin/cmake /home/leeshin/imu_publisher/src/mobile_sensor -DCMAKE_INSTALL_PREFIX=/home/leeshin/imu_publisher/install/mobile_sensor
+[0.651s] Invoking command in '/home/leeshin/imu_publisher/build/mobile_sensor': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/leeshin/hb_workspace/install/urdf_tutorial:/opt/ros/humble /usr/bin/cmake --build /home/leeshin/imu_publisher/build/mobile_sensor -- -j16 -l16
+[0.685s] Invoked command in '/home/leeshin/imu_publisher/build/mobile_sensor' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/leeshin/hb_workspace/install/urdf_tutorial:/opt/ros/humble /usr/bin/cmake --build /home/leeshin/imu_publisher/build/mobile_sensor -- -j16 -l16
+[0.693s] Invoking command in '/home/leeshin/imu_publisher/build/mobile_sensor': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/leeshin/hb_workspace/install/urdf_tutorial:/opt/ros/humble /usr/bin/cmake --install /home/leeshin/imu_publisher/build/mobile_sensor
+[0.700s] -- Install configuration: ""
+[0.700s] -- Installing: /home/leeshin/imu_publisher/install/mobile_sensor/share/ament_index/resource_index/package_run_dependencies/mobile_sensor
+[0.700s] -- Installing: /home/leeshin/imu_publisher/install/mobile_sensor/share/ament_index/resource_index/parent_prefix_path/mobile_sensor
+[0.700s] -- Installing: /home/leeshin/imu_publisher/install/mobile_sensor/share/mobile_sensor/environment/ament_prefix_path.sh
+[0.701s] -- Installing: /home/leeshin/imu_publisher/install/mobile_sensor/share/mobile_sensor/environment/ament_prefix_path.dsv
+[0.701s] -- Installing: /home/leeshin/imu_publisher/install/mobile_sensor/share/mobile_sensor/environment/path.sh
+[0.701s] -- Installing: /home/leeshin/imu_publisher/install/mobile_sensor/share/mobile_sensor/environment/path.dsv
+[0.701s] -- Installing: /home/leeshin/imu_publisher/install/mobile_sensor/share/mobile_sensor/local_setup.bash
+[0.701s] -- Installing: /home/leeshin/imu_publisher/install/mobile_sensor/share/mobile_sensor/local_setup.sh
+[0.701s] -- Installing: /home/leeshin/imu_publisher/install/mobile_sensor/share/mobile_sensor/local_setup.zsh
+[0.701s] -- Installing: /home/leeshin/imu_publisher/install/mobile_sensor/share/mobile_sensor/local_setup.dsv
+[0.701s] -- Installing: /home/leeshin/imu_publisher/install/mobile_sensor/share/mobile_sensor/package.dsv
+[0.702s] -- Installing: /home/leeshin/imu_publisher/install/mobile_sensor/share/ament_index/resource_index/packages/mobile_sensor
+[0.702s] -- Installing: /home/leeshin/imu_publisher/install/mobile_sensor/share/mobile_sensor/cmake/mobile_sensorConfig.cmake
+[0.702s] -- Installing: /home/leeshin/imu_publisher/install/mobile_sensor/share/mobile_sensor/cmake/mobile_sensorConfig-version.cmake
+[0.702s] -- Installing: /home/leeshin/imu_publisher/install/mobile_sensor/share/mobile_sensor/package.xml
+[0.702s] -- Installing: /home/leeshin/imu_publisher/install/mobile_sensor/share/mobile_sensor/package.json
+[0.702s] -- Installing: /home/leeshin/imu_publisher/install/mobile_sensor/share/mobile_sensor/dist
+[0.702s] -- Installing: /home/leeshin/imu_publisher/install/mobile_sensor/share/mobile_sensor/dist/key.pem
+[0.702s] -- Installing: /home/leeshin/imu_publisher/install/mobile_sensor/share/mobile_sensor/dist/cert.pem
+[0.702s] -- Installing: /home/leeshin/imu_publisher/install/mobile_sensor/share/mobile_sensor/dist/public
+[0.703s] -- Installing: /home/leeshin/imu_publisher/install/mobile_sensor/share/mobile_sensor/dist/public/index.html
+[0.703s] -- Installing: /home/leeshin/imu_publisher/install/mobile_sensor/share/mobile_sensor/dist/public/audioManager.js
+[0.703s] -- Installing: /home/leeshin/imu_publisher/install/mobile_sensor/share/mobile_sensor/dist/public/camera.js
+[0.703s] -- Installing: /home/leeshin/imu_publisher/install/mobile_sensor/share/mobile_sensor/dist/public/textToSpeech.js
+[0.703s] -- Installing: /home/leeshin/imu_publisher/install/mobile_sensor/share/mobile_sensor/dist/index.js
+[0.703s] -- Installing: /home/leeshin/imu_publisher/install/mobile_sensor/share/mobile_sensor/dist/generate_ssl_cert.sh
+[0.703s] -- Installing: /home/leeshin/imu_publisher/install/mobile_sensor/share/mobile_sensor//launch
+[0.703s] -- Installing: /home/leeshin/imu_publisher/install/mobile_sensor/share/mobile_sensor//launch/mobile_sensors.launch.py
+[0.705s] Invoked command in '/home/leeshin/imu_publisher/build/mobile_sensor' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/leeshin/hb_workspace/install/urdf_tutorial:/opt/ros/humble /usr/bin/cmake --install /home/leeshin/imu_publisher/build/mobile_sensor

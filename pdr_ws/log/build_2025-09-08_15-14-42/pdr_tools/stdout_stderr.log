@@ -1,0 +1,21 @@
+running egg_info
+writing ../../build/pdr_tools/pdr_tools.egg-info/PKG-INFO
+writing dependency_links to ../../build/pdr_tools/pdr_tools.egg-info/dependency_links.txt
+writing entry points to ../../build/pdr_tools/pdr_tools.egg-info/entry_points.txt
+writing requirements to ../../build/pdr_tools/pdr_tools.egg-info/requires.txt
+writing top-level names to ../../build/pdr_tools/pdr_tools.egg-info/top_level.txt
+reading manifest file '../../build/pdr_tools/pdr_tools.egg-info/SOURCES.txt'
+writing manifest file '../../build/pdr_tools/pdr_tools.egg-info/SOURCES.txt'
+running build
+running build_py
+running install
+running install_lib
+running install_data
+copying launch/mobile_pose.launch.py -> /home/leeshin/pdr_ws/install/pdr_tools/share/pdr_tools/launch
+copying config/mobile_pose.yaml -> /home/leeshin/pdr_ws/install/pdr_tools/share/pdr_tools/config
+running install_egg_info
+removing '/home/leeshin/pdr_ws/install/pdr_tools/lib/python3.10/site-packages/pdr_tools-0.0.1-py3.10.egg-info' (and everything under it)
+Copying ../../build/pdr_tools/pdr_tools.egg-info to /home/leeshin/pdr_ws/install/pdr_tools/lib/python3.10/site-packages/pdr_tools-0.0.1-py3.10.egg-info
+running install_scripts
+Installing pose_to_odom_path script to /home/leeshin/pdr_ws/install/pdr_tools/lib/pdr_tools
+writing list of installed files to '/home/leeshin/pdr_ws/build/pdr_tools/install.log'

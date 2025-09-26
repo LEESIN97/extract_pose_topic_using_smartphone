@@ -1,0 +1,14 @@
+{
+  "python.autoComplete.extraPaths": [
+    "/home/leeshin/pdr_ws/build/pdr_tools",
+    "/home/leeshin/pdr_ws/install/pdr_tools/lib/python3.10/site-packages",
+    "/opt/ros/humble/lib/python3.10/site-packages",
+    "/opt/ros/humble/local/lib/python3.10/dist-packages"
+  ],
+  "python.analysis.extraPaths": [
+    "/home/leeshin/pdr_ws/build/pdr_tools",
+    "/home/leeshin/pdr_ws/install/pdr_tools/lib/python3.10/site-packages",
+    "/opt/ros/humble/lib/python3.10/site-packages",
+    "/opt/ros/humble/local/lib/python3.10/dist-packages"
+  ]
+}

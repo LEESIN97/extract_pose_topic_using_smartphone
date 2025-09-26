@@ -1,0 +1,72 @@
+[0.598s] Invoking command in '/home/leeshin/unity_integration/build/ros_tcp_endpoint': PYTHONPATH=/home/leeshin/unity_integration/build/ros_tcp_endpoint/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/leeshin/unity_integration/install/ros_tcp_endpoint/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py develop --uninstall --editable --build-directory /home/leeshin/unity_integration/build/ros_tcp_endpoint/build
+[0.811s] /usr/lib/python3/dist-packages/setuptools/dist.py:723: UserWarning: Usage of dash-separated 'script-dir' will not be supported in future versions. Please use the underscore name 'script_dir' instead
+[0.811s]   warnings.warn(
+[0.832s] running develop
+[1.023s] Removing /home/leeshin/unity_integration/install/ros_tcp_endpoint/lib/python3.10/site-packages/ros-tcp-endpoint.egg-link (link to .)
+[1.051s] Invoked command in '/home/leeshin/unity_integration/build/ros_tcp_endpoint' returned '0': PYTHONPATH=/home/leeshin/unity_integration/build/ros_tcp_endpoint/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/leeshin/unity_integration/install/ros_tcp_endpoint/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py develop --uninstall --editable --build-directory /home/leeshin/unity_integration/build/ros_tcp_endpoint/build
+[1.052s] Invoking command in '/home/leeshin/unity_integration/src/ROS-TCP-Endpoint': PYTHONPATH=/home/leeshin/unity_integration/build/ros_tcp_endpoint/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/leeshin/unity_integration/install/ros_tcp_endpoint/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/ros_tcp_endpoint build --build-base /home/leeshin/unity_integration/build/ros_tcp_endpoint/build install --record /home/leeshin/unity_integration/build/ros_tcp_endpoint/install.log --install-scripts $base/lib/ros_tcp_endpoint --single-version-externally-managed install_data --force
+[1.258s] /usr/lib/python3/dist-packages/setuptools/dist.py:723: UserWarning: Usage of dash-separated 'script-dir' will not be supported in future versions. Please use the underscore name 'script_dir' instead
+[1.258s]   warnings.warn(
+[1.265s] running egg_info
+[1.265s] writing ../../build/ros_tcp_endpoint/ros_tcp_endpoint.egg-info/PKG-INFO
+[1.265s] writing dependency_links to ../../build/ros_tcp_endpoint/ros_tcp_endpoint.egg-info/dependency_links.txt
+[1.265s] writing entry points to ../../build/ros_tcp_endpoint/ros_tcp_endpoint.egg-info/entry_points.txt
+[1.266s] writing requirements to ../../build/ros_tcp_endpoint/ros_tcp_endpoint.egg-info/requires.txt
+[1.266s] writing top-level names to ../../build/ros_tcp_endpoint/ros_tcp_endpoint.egg-info/top_level.txt
+[1.267s] reading manifest file '../../build/ros_tcp_endpoint/ros_tcp_endpoint.egg-info/SOURCES.txt'
+[1.267s] adding license file 'LICENSE'
+[1.268s] writing manifest file '../../build/ros_tcp_endpoint/ros_tcp_endpoint.egg-info/SOURCES.txt'
+[1.268s] running build
+[1.268s] running build_py
+[1.268s] creating /home/leeshin/unity_integration/build/ros_tcp_endpoint/build
+[1.268s] creating /home/leeshin/unity_integration/build/ros_tcp_endpoint/build/lib
+[1.268s] creating /home/leeshin/unity_integration/build/ros_tcp_endpoint/build/lib/ros_tcp_endpoint
+[1.268s] copying ros_tcp_endpoint/service.py -> /home/leeshin/unity_integration/build/ros_tcp_endpoint/build/lib/ros_tcp_endpoint
+[1.268s] copying ros_tcp_endpoint/unity_service.py -> /home/leeshin/unity_integration/build/ros_tcp_endpoint/build/lib/ros_tcp_endpoint
+[1.268s] copying ros_tcp_endpoint/client.py -> /home/leeshin/unity_integration/build/ros_tcp_endpoint/build/lib/ros_tcp_endpoint
+[1.269s] copying ros_tcp_endpoint/subscriber.py -> /home/leeshin/unity_integration/build/ros_tcp_endpoint/build/lib/ros_tcp_endpoint
+[1.269s] copying ros_tcp_endpoint/server.py -> /home/leeshin/unity_integration/build/ros_tcp_endpoint/build/lib/ros_tcp_endpoint
+[1.269s] copying ros_tcp_endpoint/default_server_endpoint.py -> /home/leeshin/unity_integration/build/ros_tcp_endpoint/build/lib/ros_tcp_endpoint
+[1.269s] copying ros_tcp_endpoint/communication.py -> /home/leeshin/unity_integration/build/ros_tcp_endpoint/build/lib/ros_tcp_endpoint
+[1.269s] copying ros_tcp_endpoint/publisher.py -> /home/leeshin/unity_integration/build/ros_tcp_endpoint/build/lib/ros_tcp_endpoint
+[1.269s] copying ros_tcp_endpoint/__init__.py -> /home/leeshin/unity_integration/build/ros_tcp_endpoint/build/lib/ros_tcp_endpoint
+[1.269s] copying ros_tcp_endpoint/tcp_sender.py -> /home/leeshin/unity_integration/build/ros_tcp_endpoint/build/lib/ros_tcp_endpoint
+[1.269s] copying ros_tcp_endpoint/thread_pauser.py -> /home/leeshin/unity_integration/build/ros_tcp_endpoint/build/lib/ros_tcp_endpoint
+[1.269s] copying ros_tcp_endpoint/exceptions.py -> /home/leeshin/unity_integration/build/ros_tcp_endpoint/build/lib/ros_tcp_endpoint
+[1.269s] running install
+[1.270s] running install_lib
+[1.270s] creating /home/leeshin/unity_integration/install/ros_tcp_endpoint/lib/python3.10/site-packages/ros_tcp_endpoint
+[1.270s] copying /home/leeshin/unity_integration/build/ros_tcp_endpoint/build/lib/ros_tcp_endpoint/service.py -> /home/leeshin/unity_integration/install/ros_tcp_endpoint/lib/python3.10/site-packages/ros_tcp_endpoint
+[1.270s] copying /home/leeshin/unity_integration/build/ros_tcp_endpoint/build/lib/ros_tcp_endpoint/unity_service.py -> /home/leeshin/unity_integration/install/ros_tcp_endpoint/lib/python3.10/site-packages/ros_tcp_endpoint
+[1.270s] copying /home/leeshin/unity_integration/build/ros_tcp_endpoint/build/lib/ros_tcp_endpoint/client.py -> /home/leeshin/unity_integration/install/ros_tcp_endpoint/lib/python3.10/site-packages/ros_tcp_endpoint
+[1.270s] copying /home/leeshin/unity_integration/build/ros_tcp_endpoint/build/lib/ros_tcp_endpoint/subscriber.py -> /home/leeshin/unity_integration/install/ros_tcp_endpoint/lib/python3.10/site-packages/ros_tcp_endpoint
+[1.271s] copying /home/leeshin/unity_integration/build/ros_tcp_endpoint/build/lib/ros_tcp_endpoint/server.py -> /home/leeshin/unity_integration/install/ros_tcp_endpoint/lib/python3.10/site-packages/ros_tcp_endpoint
+[1.271s] copying /home/leeshin/unity_integration/build/ros_tcp_endpoint/build/lib/ros_tcp_endpoint/default_server_endpoint.py -> /home/leeshin/unity_integration/install/ros_tcp_endpoint/lib/python3.10/site-packages/ros_tcp_endpoint
+[1.271s] copying /home/leeshin/unity_integration/build/ros_tcp_endpoint/build/lib/ros_tcp_endpoint/communication.py -> /home/leeshin/unity_integration/install/ros_tcp_endpoint/lib/python3.10/site-packages/ros_tcp_endpoint
+[1.271s] copying /home/leeshin/unity_integration/build/ros_tcp_endpoint/build/lib/ros_tcp_endpoint/publisher.py -> /home/leeshin/unity_integration/install/ros_tcp_endpoint/lib/python3.10/site-packages/ros_tcp_endpoint
+[1.271s] copying /home/leeshin/unity_integration/build/ros_tcp_endpoint/build/lib/ros_tcp_endpoint/__init__.py -> /home/leeshin/unity_integration/install/ros_tcp_endpoint/lib/python3.10/site-packages/ros_tcp_endpoint
+[1.271s] copying /home/leeshin/unity_integration/build/ros_tcp_endpoint/build/lib/ros_tcp_endpoint/tcp_sender.py -> /home/leeshin/unity_integration/install/ros_tcp_endpoint/lib/python3.10/site-packages/ros_tcp_endpoint
+[1.271s] copying /home/leeshin/unity_integration/build/ros_tcp_endpoint/build/lib/ros_tcp_endpoint/thread_pauser.py -> /home/leeshin/unity_integration/install/ros_tcp_endpoint/lib/python3.10/site-packages/ros_tcp_endpoint
+[1.271s] copying /home/leeshin/unity_integration/build/ros_tcp_endpoint/build/lib/ros_tcp_endpoint/exceptions.py -> /home/leeshin/unity_integration/install/ros_tcp_endpoint/lib/python3.10/site-packages/ros_tcp_endpoint
+[1.272s] byte-compiling /home/leeshin/unity_integration/install/ros_tcp_endpoint/lib/python3.10/site-packages/ros_tcp_endpoint/service.py to service.cpython-310.pyc
+[1.272s] byte-compiling /home/leeshin/unity_integration/install/ros_tcp_endpoint/lib/python3.10/site-packages/ros_tcp_endpoint/unity_service.py to unity_service.cpython-310.pyc
+[1.272s] byte-compiling /home/leeshin/unity_integration/install/ros_tcp_endpoint/lib/python3.10/site-packages/ros_tcp_endpoint/client.py to client.cpython-310.pyc
+[1.273s] byte-compiling /home/leeshin/unity_integration/install/ros_tcp_endpoint/lib/python3.10/site-packages/ros_tcp_endpoint/subscriber.py to subscriber.cpython-310.pyc
+[1.273s] byte-compiling /home/leeshin/unity_integration/install/ros_tcp_endpoint/lib/python3.10/site-packages/ros_tcp_endpoint/server.py to server.cpython-310.pyc
+[1.275s] byte-compiling /home/leeshin/unity_integration/install/ros_tcp_endpoint/lib/python3.10/site-packages/ros_tcp_endpoint/default_server_endpoint.py to default_server_endpoint.cpython-310.pyc
+[1.275s] byte-compiling /home/leeshin/unity_integration/install/ros_tcp_endpoint/lib/python3.10/site-packages/ros_tcp_endpoint/communication.py to communication.cpython-310.pyc
+[1.275s] byte-compiling /home/leeshin/unity_integration/install/ros_tcp_endpoint/lib/python3.10/site-packages/ros_tcp_endpoint/publisher.py to publisher.cpython-310.pyc
+[1.275s] byte-compiling /home/leeshin/unity_integration/install/ros_tcp_endpoint/lib/python3.10/site-packages/ros_tcp_endpoint/__init__.py to __init__.cpython-310.pyc
+[1.276s] byte-compiling /home/leeshin/unity_integration/install/ros_tcp_endpoint/lib/python3.10/site-packages/ros_tcp_endpoint/tcp_sender.py to tcp_sender.cpython-310.pyc
+[1.277s] byte-compiling /home/leeshin/unity_integration/install/ros_tcp_endpoint/lib/python3.10/site-packages/ros_tcp_endpoint/thread_pauser.py to thread_pauser.cpython-310.pyc
+[1.277s] byte-compiling /home/leeshin/unity_integration/install/ros_tcp_endpoint/lib/python3.10/site-packages/ros_tcp_endpoint/exceptions.py to exceptions.cpython-310.pyc
+[1.277s] running install_data
+[1.277s] copying resource/ros_tcp_endpoint -> /home/leeshin/unity_integration/install/ros_tcp_endpoint/share/ament_index/resource_index/packages
+[1.277s] copying package.xml -> /home/leeshin/unity_integration/install/ros_tcp_endpoint/share/ros_tcp_endpoint
+[1.277s] copying launch/endpoint.py -> /home/leeshin/unity_integration/install/ros_tcp_endpoint/share/ros_tcp_endpoint/launch
+[1.277s] running install_egg_info
+[1.279s] Copying ../../build/ros_tcp_endpoint/ros_tcp_endpoint.egg-info to /home/leeshin/unity_integration/install/ros_tcp_endpoint/lib/python3.10/site-packages/ros_tcp_endpoint-0.0.1-py3.10.egg-info
+[1.279s] running install_scripts
+[1.295s] Installing default_server_endpoint script to /home/leeshin/unity_integration/install/ros_tcp_endpoint/lib/ros_tcp_endpoint
+[1.295s] writing list of installed files to '/home/leeshin/unity_integration/build/ros_tcp_endpoint/install.log'
+[1.312s] Invoked command in '/home/leeshin/unity_integration/src/ROS-TCP-Endpoint' returned '0': PYTHONPATH=/home/leeshin/unity_integration/build/ros_tcp_endpoint/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/leeshin/unity_integration/install/ros_tcp_endpoint/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/ros_tcp_endpoint build --build-base /home/leeshin/unity_integration/build/ros_tcp_endpoint/build install --record /home/leeshin/unity_integration/build/ros_tcp_endpoint/install.log --install-scripts $base/lib/ros_tcp_endpoint --single-version-externally-managed install_data --force

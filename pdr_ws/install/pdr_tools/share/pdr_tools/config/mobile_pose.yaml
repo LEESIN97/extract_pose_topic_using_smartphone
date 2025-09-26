@@ -1,0 +1,6 @@
+pose_topic: mobile_sensor/pose
+odom_frame: odom
+base_frame: base_link
+path_capacity: 2000
+publish_tf: true
+

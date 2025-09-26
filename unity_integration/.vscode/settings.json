@@ -1,0 +1,14 @@
+{
+  "python.autoComplete.extraPaths": [
+    "/home/leeshin/unity_integration/build/ros_tcp_endpoint",
+    "/home/leeshin/unity_integration/install/ros_tcp_endpoint/lib/python3.10/site-packages",
+    "/opt/ros/humble/lib/python3.10/site-packages",
+    "/opt/ros/humble/local/lib/python3.10/dist-packages"
+  ],
+  "python.analysis.extraPaths": [
+    "/home/leeshin/unity_integration/build/ros_tcp_endpoint",
+    "/home/leeshin/unity_integration/install/ros_tcp_endpoint/lib/python3.10/site-packages",
+    "/opt/ros/humble/lib/python3.10/site-packages",
+    "/opt/ros/humble/local/lib/python3.10/dist-packages"
+  ]
+}

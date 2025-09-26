@@ -1,0 +1,26 @@
+running develop
+running egg_info
+creating pdr_tools.egg-info
+writing pdr_tools.egg-info/PKG-INFO
+writing dependency_links to pdr_tools.egg-info/dependency_links.txt
+writing entry points to pdr_tools.egg-info/entry_points.txt
+writing requirements to pdr_tools.egg-info/requires.txt
+writing top-level names to pdr_tools.egg-info/top_level.txt
+writing manifest file 'pdr_tools.egg-info/SOURCES.txt'
+reading manifest file 'pdr_tools.egg-info/SOURCES.txt'
+writing manifest file 'pdr_tools.egg-info/SOURCES.txt'
+running build_ext
+Creating /home/leeshin/pdr_ws/install/pdr_tools/lib/python3.10/site-packages/pdr-tools.egg-link (link to .)
+Installing pose_to_odom_path script to /home/leeshin/pdr_ws/install/pdr_tools/lib/pdr_tools
+
+Installed /home/leeshin/pdr_ws/build/pdr_tools
+running symlink_data
+creating /home/leeshin/pdr_ws/install/pdr_tools/share/ament_index
+creating /home/leeshin/pdr_ws/install/pdr_tools/share/ament_index/resource_index
+creating /home/leeshin/pdr_ws/install/pdr_tools/share/ament_index/resource_index/packages
+symbolically linking /home/leeshin/pdr_ws/build/pdr_tools/resource/pdr_tools -> /home/leeshin/pdr_ws/install/pdr_tools/share/ament_index/resource_index/packages
+symbolically linking /home/leeshin/pdr_ws/build/pdr_tools/package.xml -> /home/leeshin/pdr_ws/install/pdr_tools/share/pdr_tools
+creating /home/leeshin/pdr_ws/install/pdr_tools/share/pdr_tools/launch
+symbolically linking /home/leeshin/pdr_ws/build/pdr_tools/launch/mobile_pose.launch.py -> /home/leeshin/pdr_ws/install/pdr_tools/share/pdr_tools/launch
+creating /home/leeshin/pdr_ws/install/pdr_tools/share/pdr_tools/config
+symbolically linking /home/leeshin/pdr_ws/build/pdr_tools/config/mobile_pose.yaml -> /home/leeshin/pdr_ws/install/pdr_tools/share/pdr_tools/config

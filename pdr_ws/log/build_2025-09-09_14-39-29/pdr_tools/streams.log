@@ -1,0 +1,24 @@
+[0.555s] Invoking command in '/home/leeshin/pdr_ws/src/pdr_tools': PYTHONPATH=/home/leeshin/pdr_ws/build/pdr_tools/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/leeshin/pdr_ws/install/pdr_tools/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/pdr_tools build --build-base /home/leeshin/pdr_ws/build/pdr_tools/build install --record /home/leeshin/pdr_ws/build/pdr_tools/install.log --single-version-externally-managed install_data
+[0.774s] running egg_info
+[0.774s] writing ../../build/pdr_tools/pdr_tools.egg-info/PKG-INFO
+[0.774s] writing dependency_links to ../../build/pdr_tools/pdr_tools.egg-info/dependency_links.txt
+[0.775s] writing entry points to ../../build/pdr_tools/pdr_tools.egg-info/entry_points.txt
+[0.775s] writing requirements to ../../build/pdr_tools/pdr_tools.egg-info/requires.txt
+[0.775s] writing top-level names to ../../build/pdr_tools/pdr_tools.egg-info/top_level.txt
+[0.776s] reading manifest file '../../build/pdr_tools/pdr_tools.egg-info/SOURCES.txt'
+[0.777s] writing manifest file '../../build/pdr_tools/pdr_tools.egg-info/SOURCES.txt'
+[0.777s] running build
+[0.777s] running build_py
+[0.777s] copying pdr_tools/pose_to_odom_path.py -> /home/leeshin/pdr_ws/build/pdr_tools/build/lib/pdr_tools
+[0.777s] running install
+[0.778s] running install_lib
+[0.778s] copying /home/leeshin/pdr_ws/build/pdr_tools/build/lib/pdr_tools/pose_to_odom_path.py -> /home/leeshin/pdr_ws/install/pdr_tools/lib/python3.10/site-packages/pdr_tools
+[0.779s] byte-compiling /home/leeshin/pdr_ws/install/pdr_tools/lib/python3.10/site-packages/pdr_tools/pose_to_odom_path.py to pose_to_odom_path.cpython-310.pyc
+[0.780s] running install_data
+[0.780s] running install_egg_info
+[0.781s] removing '/home/leeshin/pdr_ws/install/pdr_tools/lib/python3.10/site-packages/pdr_tools-0.0.1-py3.10.egg-info' (and everything under it)
+[0.781s] Copying ../../build/pdr_tools/pdr_tools.egg-info to /home/leeshin/pdr_ws/install/pdr_tools/lib/python3.10/site-packages/pdr_tools-0.0.1-py3.10.egg-info
+[0.782s] running install_scripts
+[0.797s] Installing pose_to_odom_path script to /home/leeshin/pdr_ws/install/pdr_tools/lib/pdr_tools
+[0.798s] writing list of installed files to '/home/leeshin/pdr_ws/build/pdr_tools/install.log'
+[0.817s] Invoked command in '/home/leeshin/pdr_ws/src/pdr_tools' returned '0': PYTHONPATH=/home/leeshin/pdr_ws/build/pdr_tools/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/leeshin/pdr_ws/install/pdr_tools/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/pdr_tools build --build-base /home/leeshin/pdr_ws/build/pdr_tools/build install --record /home/leeshin/pdr_ws/build/pdr_tools/install.log --single-version-externally-managed install_data
